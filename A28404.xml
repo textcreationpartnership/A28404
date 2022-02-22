@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody and barbarous news from Bishopgate-street a perfect narrative of the horrid murder of Mris. Jewers, a widow neer fourscore years of age, lately living in Angel-alley, neer the bars without Bishopsgate, on Friday the 27th of this instant September, in the evening : supposed to be committed by two persons that were lodgers in her house, who are fled, she being found strangled with a napkin, and her mouth stopt with a foul towel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28404</idno>
+            <idno type="STC">Wing B3225</idno>
+            <idno type="STC">ESTC R13041</idno>
+            <idno type="EEBO-CITATION">12647497</idno>
+            <idno type="OCLC">ocm 12647497</idno>
+            <idno type="VID">65183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 975:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody and barbarous news from Bishopgate-street a perfect narrative of the horrid murder of Mris. Jewers, a widow neer fourscore years of age, lately living in Angel-alley, neer the bars without Bishopsgate, on Friday the 27th of this instant September, in the evening : supposed to be committed by two persons that were lodgers in her house, who are fled, she being found strangled with a napkin, and her mouth stopt with a foul towel.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jewers, --  Mris., d. 1678.</term>
+               <term>Murder --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65183:1"/>
+            <pb facs="tcp:65183:1" rendition="simple:additions"/>
+            <p>Bloody and Barbarous NEWS From <hi>Biſhopſgate-ſtreet.</hi>
+            </p>
+            <p>A PERFECT NARRATIVE OF THE HORRID MURDER OF Mris. Jewers, A Widow neer Fourſcore years of Age, Lately living in <hi>Angel-alley,</hi> neer the Bars Without <hi>Biſhopſgate,</hi>
+            </p>
+            <p>On <hi>Friday</hi> the 27th of this inſtant <hi>September,</hi> in the Evening.</p>
+            <p>Suppoſed to be committed by Two Perſons that were Lodgers in her houſe, who are fled; She being found Strangled with a Napkin, and her Mouth ſtopt with a foul Towel.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65183:2"/>
+            <pb n="3" facs="tcp:65183:2" rendition="simple:additions"/>
+            <head>Bloody and Barbarous News from <hi>Biſhopſ-gate-ſtreet.</hi>
+            </head>
+            <p>NOt to inſiſt on the horridneſs of the Sin of MURDER, which defaces Gods Image, and beyond moſt other ſpecies of wickedneſs, cryes loud to Heaven for ven<g ref="char:EOLhyphen"/>geance; I ſhall immediately addreſs to the Relation of the preſent Fact, which in all its Circumſtances, is one of the moſt im<g ref="char:EOLhyphen"/>pious, pre-meditated, and abominable, that our times have been guilty of.</p>
+            <p>The Good-Woman killed, named <hi>Jew<g ref="char:EOLhyphen"/>ers,</hi> was a Widow, whoſe Husband, by Trade a Weaver, dyed about a year or two ſince, and left her poſſeſt of a ſmall Houſe in <hi>Angel-Alley,</hi> before mentioned, with convenient Goods and Furniture, and as ſome report, a ſmall parcel of Plate:
+<pb n="4" facs="tcp:65183:3"/>ſhe was near Fourſcore years of Age, and lived as it were alone, only letting out half of her Houſe to a perſon that ſold a Cup of Ale; the reſt reſerving in her own hands, ſhe willing to improve, as well as ſhe could, did ſometimes entertain Lodgers, and moſt unhapily about a week ago, took in a Man and a Woman, who pretended to be Man and Wife, but wholly ſtrangers to her and all the Neighbours.</p>
+            <p>'Tis ſuppoſed ſhe had been ſo indiſcreet, as to ſhew or declare to theſe ill people, what Plate or Money ſhe had; who there<g ref="char:EOLhyphen"/>upon form'd a Helliſh deſign to deprive her thereof, and of her Life to boot, if they could not otherwiſe effect their black purpoſe; in order to this, masking their bloody intentions with a ſhew of kind<g ref="char:EOLhyphen"/>neſs, on Friday laſt in the Evening, they invited their Land Lady up into their Room, to eat a piece of Pork with them; who nothing ſuſpecting their villanous plot, went up; but immediately, as 'tis ſtrongly preſumed, they cruelly, without
+<pb n="5" facs="tcp:65183:3" rendition="simple:additions"/>any Compaſſion to her Age or Innocence, fell upon her, and having firſt ſtopt her Mouth with a durty Towel or Cloth, they twiſting a Napkin about her Neck, Throtled or Strangled her, and then, (as 'tis believed) Rifled her Room of the moſt conſiderable and portable things ſhe had, as Plate, Money, <hi>&amp;c.</hi> which they might eaſily accompliſh, without being ob<g ref="char:EOLhyphen"/>ſerved by any, the other people being buſie and not in the leaſt miſtruſting any harm. Having thus effected the Inhumane and Bloody Exploit, they left the Dead Bo<g ref="char:EOLhyphen"/>dy in their own Chamber, and then, how or when the Man went out, is uncertain, no notice being taken thereof; but the Woman came down to the other part of the Houſe where Drink was ſold, and de<g ref="char:EOLhyphen"/>fired three Pints of Ale, as for their Supper, ſaying, ſhe would ſtep out whilſt it was drawing, and fetch ſome Cheeſe: this was about Nine or Ten at night; but ſhe not returning, and the Tenant wondring as well thereat, as that her Land-Lady came
+<pb n="6" facs="tcp:65183:4"/>not down to ſhut up her door, ſeveral times loudly call'd on the ſtairs, but received no anſwer; whereupon, with a Neighbour ſhe went up, where ſhe found the poor old Woman lying on the floor Murdered, as aforeſaid; the Napkin remaining ſtill violently drawn together about her Neck, and the foul Towel ſo furiouſly ramm'd into her Mouth, that her Face was very much disfigured, and the very skin torn therewith. There was then no body in the Room, only the Table ſpread with a Cloth, and a Salt-ſeller ſet thereupon; but no Meat, nor any appearance of any that had been.</p>
+            <p>What Goods in particular they took away, is yet not known, becauſe the Woman living privately, few people (if any) could exactly tell what ſhe had; only one Neighbour teſtifies, that in or ſince the time of <hi>Bartholemew</hi> Fair, the Deceaſed ſhew'd her a piece of Plate, of about Four or Five pound value, which ſhe ſaid ſhe had bought at the ſaid laſt Fair; and now
+<pb n="7" facs="tcp:65183:4" rendition="simple:additions"/>there is no ſuch, nor any other Plate or Money to be found.</p>
+            <p>Theſe Lodgers not having been ſince heard of, have (as it were in a Legal ſenſe) confeſ<g ref="char:EOLhyphen"/>ſed thereby their concernment in the Guilt, by their flight, and accordingly all Endeavors are uſed to Apprehend them, whom 'tis not doubted, but Divine Vengeance will diſ<g ref="char:EOLhyphen"/>cover, and bring to condign puniſhment, whilſt in the mean time, they wander up and down, under the Terrors of Conſcience, and the fright<g ref="char:EOLhyphen"/>ful Apprehenſions of Blood-guiltineſs, not to be exceeded by any Tortures, but the
+<pb n="8" facs="tcp:65183:5"/>actual and endleſs Torments of Hell.</p>
+            <p>This ſad Example ought to awake the Diſcretion, and a<g ref="char:EOLhyphen"/>larm the Caution of all honeſt Houſe-keepers, to be more wary in entertaining Lodgers, without ſufficient Teſtimoni<g ref="char:EOLhyphen"/>als of their Integrity; it be<g ref="char:EOLhyphen"/>ing become a common Pra<g ref="char:EOLhyphen"/>ctice for thoſe Runnagate In<g ref="char:EOLhyphen"/>mates to rob and ſpoil thoſe that admit them into their Houſes: Nor do they there<g ref="char:EOLhyphen"/>by onely hazard their Goods, but their Lives alſo; as in this lamentable Caſe is too appa<g ref="char:EOLhyphen"/>rent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65183:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
